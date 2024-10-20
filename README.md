@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Fullstack**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-ivory-theta.vercel.app/](https://myportfolio-ivory-theta.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/JosephKorivi](https://github.com/JosephKorivi)
 
 - 📝 I regularly write articles on [https://josephkorivi.blogspot.com/](https://josephkorivi.blogspot.com/)
 
