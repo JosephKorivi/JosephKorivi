@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JosephKorivi</h1>
-<h3 align="center">A Passionate Frontend Developer | UI/UX Design Specialist in Figma | Prompt Engineer from India</h3>
+<h3 align="center">Intern @VaishaliTech Developement Dept as a UI/UX Desiger | A Passionate Frontend Developer | UI/UX Design Specialist in Figma | Prompt Engineer from India</h3>
 
 - 🔭 I’m currently working on **NodeJS**
 
