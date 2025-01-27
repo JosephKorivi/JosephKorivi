@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm JosephKorivi</h1>
 <h3 align="center">Intern @VaishaliTech in Developement Dept as a UI/UX Desiger | A Passionate Frontend Developer | UI/UX Design Specialist in Figma | Prompt Engineer from India</h3>
 
-- 🔭 I’m currently working on **NodeJS**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **Java Fullstack**
+- 🌱 I’m currently learning **Java Fullstack** and Enthusiast
+
+- ✨ **Problem Solver Using Java** 
 
 - 👨‍💻 All of my projects are available at [https://portfolio-one-nu-89.vercel.app/](https://portfolio-one-nu-89.vercel.app/)
 
