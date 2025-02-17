@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Java Fullstack** and Enthusiast
 
-- ✨ **CSES Problem Solver Using Java** 
+- ✨ **CSES Problem Solver Using Java**
+
+- ✨ **OPEN SOURCE CONTRIBUTOR**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-one-nu-89.vercel.app/](https://portfolio-one-nu-89.vercel.app/)
 
