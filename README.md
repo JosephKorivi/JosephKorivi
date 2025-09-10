@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm JosephKorivi</h1>
-<h3 align="center">Ex-Intern @VaishaliTech in Developement Dept as a UI/UX Desiger | A Passionate Frontend Developer | UI/UX Design Specialist in Figma | Prompt Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm JOSEPH KORIVI</h1>
+<h3 align="center">Co-Founder & CEO @ TRILINEUM CORP | TECH TEAM LEAD & Ex-SOFTWARE ENGINEER @ ZM QR CODE SERVICES | Ex-Intern @VaishaliTech in Developement Dept as a UI/UX Desiger | A Passionate SOFTWARE ENGINEER | UI/UX Design Specialist in Figma | Prompt Engineer from India</h3>
 
-- 🔭 I’m currently working on **MERN**
-
-- 🌱 I’m currently learning **Java Fullstack** and Enthusiast
-
+- 🔭 CEO By PROFESSION. PASSIONATE FULLSTACK SOFTWARE ENGINEER.
+  
+- 🌱 I’m currently BUILDING SCALABLE & RELIABLE SOFTWARE PRODUCTS.
+  
 - ✨ **CSES Problem Solver Using Java**
 
 - ✨ **OPEN SOURCE CONTRIBUTOR**
