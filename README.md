@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JOSEPH KORIVI</h1>
-<h3 align="center">Co-Founder & CEO @ TRILINEUM CORP | TECH TEAM LEAD & Ex-SOFTWARE ENGINEER @ ZM QR CODE SERVICES | Ex-Intern @VaishaliTech in Developement Dept as a UI/UX Desiger | A Passionate SOFTWARE ENGINEER | UI/UX Design Specialist in Figma | Prompt Engineer from India</h3>
+<h3 align="center">Co-Founder & CEO @ TRILINEUM PVT. LTD. | TECH TEAM LEAD & Ex-SOFTWARE ENGINEER @ ZM QR CODE SERVICES | Ex-Intern @VaishaliTech in Developement Dept as a UI/UX Desiger | A Passionate SOFTWARE ENGINEER | UI/UX Design Specialist in Figma | Prompt Engineer from India</h3>
 
 - 🔭 CEO By PROFESSION. PASSIONATE FULLSTACK SOFTWARE ENGINEER.
   
