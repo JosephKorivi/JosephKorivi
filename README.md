@@ -9,9 +9,9 @@
 
 - ✨ **OPEN SOURCE CONTRIBUTOR**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-one-nu-89.vercel.app/](https://portfolio-one-nu-89.vercel.app/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://portfolio-one-nu-89.vercel.app/)
 
-- 📝 I regularly write articles on [https://josephkorivi.blogspot.com/](https://josephkorivi.blogspot.com/)
+- 📝 I regularly write articles on [MY BLOGS](https://josephkorivi.blogspot.com/)
 
 - 💬 Ask me about **UI/UX Figma, Frontend Technologies, MongoDB, Prompt Engineering**
 
